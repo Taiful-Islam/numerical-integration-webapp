@@ -1,0 +1,7 @@
+mini_sql.exe
+compiler.tab.c
+compiler.tab.h
+lex.yy.c
+__pycache__/
+data/*.csv
+data/__temp.csv

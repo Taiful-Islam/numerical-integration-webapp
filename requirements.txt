@@ -1,0 +1,2 @@
+# No external Python package is required.
+# The GUI uses Python's built-in tkinter module.
